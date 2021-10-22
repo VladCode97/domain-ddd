@@ -1,0 +1,19 @@
+{
+  "name": "domain-ddd-package",
+  "version": "1.0.0",
+  "description": "this a package ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladCode97/domain-ddd.git"
+  },
+  "author": "@Luis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VladCode97/domain-ddd/issues"
+  },
+  "homepage": "https://github.com/VladCode97/domain-ddd#readme"
+}
